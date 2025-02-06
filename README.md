@@ -46,4 +46,3 @@ Open your browser and navigate to `http://localhost:5173` to see the application
 ## Screenshots
 
 ![Home page](./src/assets/image.png)
-C:\Projects\MERN\Google Gemini\google_gemini_clone\src\assets\image.png
