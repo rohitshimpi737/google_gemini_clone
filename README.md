@@ -8,7 +8,6 @@ This project is a clone of the Gemini application built using React and Vite. It
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Installation
 
@@ -36,12 +35,12 @@ Open your browser and navigate to `http://localhost:5173` to see the application
 
 ## Project Structure
 
-- [App.jsx](http://_vscodecontentref_/1): Main application component.
-- [Sidebar.jsx](http://_vscodecontentref_/2): Sidebar component.
-- [Main.jsx](http://_vscodecontentref_/3): Main content component.
-- [context.jsx](http://_vscodecontentref_/4): Context provider for managing state.
-- [gemini.js](http://_vscodecontentref_/5): Configuration for Google Generative AI.
-- [assets.js](http://_vscodecontentref_/6): Asset imports.
+- [App.jsx]: Main application component.
+- [Sidebar.jsx]: Sidebar component.
+- [Main.jsx]: Main content component.
+- [context.jsx]: Context provider for managing state.
+- [gemini.js]: Configuration for Google Generative AI.
+- [assets.js]: Asset imports.
 
 ## Screenshots
 
