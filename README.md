@@ -8,8 +8,7 @@ This project is a clone of the Gemini application built using React and Vite. It
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
-- [License](#license)
-
+- 
 ## Installation
 
 1. Clone the repository:
