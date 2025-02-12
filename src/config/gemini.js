@@ -6,7 +6,6 @@ import {
 
 const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
 console.log(apiKey);
-// const apiKey = "AIzaSyBtiy3WoOqM4s0T0aTAQhjiLl0VrjHTYOs";
 
 const genAI = new GoogleGenerativeAI(apiKey);
 
